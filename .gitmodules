@@ -1,0 +1,18 @@
+[submodule "gpu-puzzles"]
+	path = gpu-puzzles
+	url = https://github.com/srush/gpu-puzzles
+[submodule "tensor-puzzles"]
+	path = tensor-puzzles
+	url = https://github.com/srush/tensor-puzzles
+[submodule "autodiff-puzzles"]
+	path = autodiff-puzzles
+	url = https://github.com/srush/autodiff-puzzles
+[submodule "transformer-puzzles"]
+	path = transformer-puzzles
+	url = https://github.com/srush/transformer-puzzles
+[submodule "GPTworld"]
+	path = GPTworld
+	url = https://github.com/srush/GPTworld
+[submodule "LLM-Training-Puzzles"]
+	path = LLM-Training-Puzzles
+	url = https://github.com/srush/LLM-Training-Puzzles
